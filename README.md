@@ -1,3 +1,8 @@
+# Deployed with vercel
+
+Please click here to checkout the deployed widgets app: [Click Me](https://widgets-five-sigma.vercel.app/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
